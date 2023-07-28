@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.modal {
+  display: none;
+  background-color: rgba(0, 0, 0, 0.5);
+}
